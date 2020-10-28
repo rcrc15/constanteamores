@@ -93,7 +93,7 @@ email = "crc15@ic.ac.uk"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Batoum Gardens 37A", city = "London", postcode = "W6 7QB", country = "United Kingdom", country_code = "UK"}
+address = {street = "Batoum Gardens 37", city = "London", postcode = "W6 7QB", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
