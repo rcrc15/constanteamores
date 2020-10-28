@@ -17,21 +17,22 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Free-surface flows
+- Fluid mechanics
+- Computational Fluid Mechanics
+- Interfacial phenomena
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Fluid Mechanics
+    institution: Imperial College London
+    year: 2020
+  - course: MSc in Advanced Chemical Engineering
+    institution: Imperial College London
+    year: 2016
+  - course: BSc in AChemical Engineering
+    institution: Complutense University of Madrid
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
