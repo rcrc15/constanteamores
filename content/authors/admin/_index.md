@@ -1,17 +1,17 @@
 ---
 # Display name
-title: C. R Constante-Amores
+title: C. Ricardo Constante-Amores
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate in Fluid Mechanics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Imperial College London
+  url: "https://www.imperial.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
