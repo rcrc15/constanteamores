@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: C. R Constante-Amores
 
 # Is this the primary user of the site?
 superuser: true
